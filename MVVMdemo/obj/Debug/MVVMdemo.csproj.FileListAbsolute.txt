@@ -1,0 +1,14 @@
+/Users/user/Projects/MVVMdemo/MVVMdemo/bin/Debug/MVVMdemo.dll
+/Users/user/Projects/MVVMdemo/MVVMdemo/bin/Debug/MVVMdemo.pdb
+/Users/user/Projects/MVVMdemo/MVVMdemo/bin/Debug/Xamarin.Forms.Core.dll
+/Users/user/Projects/MVVMdemo/MVVMdemo/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/user/Projects/MVVMdemo/MVVMdemo/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/user/Projects/MVVMdemo/MVVMdemo/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/user/Projects/MVVMdemo/MVVMdemo/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/user/Projects/MVVMdemo/MVVMdemo/bin/Debug/Xamarin.Forms.Core.xml
+/Users/user/Projects/MVVMdemo/MVVMdemo/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/user/Projects/MVVMdemo/MVVMdemo/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/user/Projects/MVVMdemo/MVVMdemo/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/user/Projects/MVVMdemo/MVVMdemo/obj/Debug/MVVMdemo.csproj.CoreCompileInputs.cache
+/Users/user/Projects/MVVMdemo/MVVMdemo/obj/Debug/MVVMdemo.dll
+/Users/user/Projects/MVVMdemo/MVVMdemo/obj/Debug/MVVMdemo.pdb

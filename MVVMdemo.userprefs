@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{E79B7EB1-6749-44E8-9D36-BEC68814D4D5}|Default">
+  <MonoDevelop.Ide.ItemProperties.MVVMdemo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.01E312F5-CC6B-4A7E-ADE7-DB941130122B">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.MVVMdemo.iOS>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVVMdemo/Views/MainPage.cs">
+    <Files>
+      <File FileName="MVVMdemo/Views/SecondPage.cs" Line="22" Column="26" />
+      <File FileName="MVVMdemo/ViewModels/SecondPageViewModel.cs" Line="15" Column="9" />
+      <File FileName="MVVMdemo/Views/MainPage.cs" Line="58" Column="32" />
+      <File FileName="MVVMdemo/ViewModels/MainViewModel.cs" Line="13" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
