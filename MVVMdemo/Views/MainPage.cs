@@ -55,6 +55,10 @@ namespace MVVMdemo.Views
             buttonToSecondPage.Command = ViewModel.GoToSecondPage;
             //assigning viewModel commands to buttons ENDED
 
+            //
+            buttonToSecondPage.Clicked += (s, e) => ((Button)s).TextColor = Color.Bisque;
+            
+
             //setting bindings
             buttonToViewModel.SetBinding(Button.TextProperty, "ButtonTextValue");
             myLabel.SetBinding(Label.TextProperty, "ButtonTextValue");
