@@ -2,12 +2,13 @@
   <MonoDevelop.Ide.ItemProperties.MVVMdemo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.01E312F5-CC6B-4A7E-ADE7-DB941130122B">
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.MVVMdemo.iOS>
-  <MonoDevelop.Ide.Workbench ActiveDocument="MVVMdemo/Views/MainPage.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVVMdemo/ViewModels/MainViewModel.cs">
     <Files>
-      <File FileName="MVVMdemo/Views/SecondPage.cs" Line="22" Column="26" />
-      <File FileName="MVVMdemo/ViewModels/SecondPageViewModel.cs" Line="15" Column="9" />
-      <File FileName="MVVMdemo/Views/MainPage.cs" Line="58" Column="32" />
-      <File FileName="MVVMdemo/ViewModels/MainViewModel.cs" Line="13" Column="39" />
+      <File FileName="MVVMdemo/Views/SecondPage.cs" Line="1" Column="1" />
+      <File FileName="MVVMdemo/Views/MainPage.cs" Line="1" Column="1" />
+      <File FileName="MVVMdemo/ViewModels/SecondPageViewModel.cs" Line="23" Column="55" />
+      <File FileName="MVVMdemo/ViewModels/MainViewModel.cs" Line="39" Column="46" />
+      <File FileName="MVVMdemo/Services/EmployeesServices.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

@@ -20,7 +20,7 @@ namespace MVVMdemo.ViewModels
         INavigation Navigation;
 
         //we use ObservableCollection because PropertyChanged works normally with it. List doesn`t do it 
-        public ObservableCollection<Employee> _employeesList { get; set; }
+        ObservableCollection<Employee> _employeesList;
         public ObservableCollection<Employee> EmployeesList
         {
             get { return _employeesList; }
@@ -32,7 +32,7 @@ namespace MVVMdemo.ViewModels
         }
 
         //this property will change when nameEntry.Text in the View is changed
-        public string _nameEntry;
+        string _nameEntry;
         public string NameEntry
         {
             get { return _nameEntry; }
@@ -43,7 +43,7 @@ namespace MVVMdemo.ViewModels
             }
         }
         //this property will change when departmentEntry.Text in the View is changed
-        public string _departmentEntry;
+        string _departmentEntry;
         public string DepartmentEntry
         {
             get { return _departmentEntry; }
@@ -63,12 +63,12 @@ namespace MVVMdemo.ViewModels
             AddCommand = new Command(Add);
         }
 
-        private async void Back()
+        async void Back()
         {
             await Navigation.PopAsync();
         }
 
-        private void Add()
+        void Add()
         {
             EmployeesList.Add(new Employee{ Name = NameEntry, Department = DepartmentEntry });
         }

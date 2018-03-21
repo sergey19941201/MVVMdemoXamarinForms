@@ -43,7 +43,7 @@ namespace MVVMdemo.ViewModels
 
         //here we change the value of ButtonTextValue
         int i = 1;
-        public void ChangeTextMeth()
+        private void ChangeTextMeth()
         {
             ButtonTextValue = i.ToString();
             i++;
